@@ -11,7 +11,7 @@ In this project you will have 3 main Modes. And there is a button that when we c
 1- Calculator Mode:
 In this mode you will be asked to take inputs from the user and print that input on the LCD. You will take two numbers (each more than 1 digit) and a sign between them. Use the keypad numbers to get the numbers.Print the numbers and the sign on the LCD before printing the result.
 KeyPad Format:
-![image](https://github.com/user-attachments/assets/a2302e4f-b275-4b78-98c0-c182422c56f2)
+![image](https://github.com/user-attachments/assets/c482b4b8-b5b0-477b-9e11-cd60632c5452)
 
 2- Timer Mode:
 In this mode user is asked to press on minutes button and each press increase one minutes and for seconds he press on another button and each press also increases one second. There is a button for reset timer and button to start timer when we clicked on it ; it will start counting down until it reaches zero so that the blue led will be turned on.
