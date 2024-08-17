@@ -39,6 +39,8 @@ KeyPad format:
 
 
 Architecture of Project:
+
+
 ![image](https://github.com/user-attachments/assets/3ee51799-b5b3-4e47-90ca-5402eccbb437)
  
 
