@@ -10,8 +10,11 @@ Features:
 In this project you will have 3 main Modes. And there is a button that when we clicked on it whenever we are in any application we will return back to the main screen in order to choose one of these modes.
 
 1- Calculator Mode:
-In this mode you will be asked to take inputs from the user and print that input on the LCD. You will take two numbers (each more than 1 digit) and a sign between them. Use the keypad numbers to get the numbers.Print the numbers and the sign on the LCD before printing the result.
+In this mode you will be asked to take inputs from the user and print that input on the LCD. You will take two numbers (each more than 1 digit) and a sign between them. Use the keypad numbers to get the numbers.
+Print the numbers and the sign on the LCD before printing the result.
+
 KeyPad Format:
+
 ![image](https://github.com/user-attachments/assets/c482b4b8-b5b0-477b-9e11-cd60632c5452)
 
 2- Timer Mode:
