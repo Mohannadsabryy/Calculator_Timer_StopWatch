@@ -8,6 +8,7 @@ By the end of this project,You must master the following:
 
 Features:
 In this project you will have 3 main Modes. And there is a button that when we clicked on it whenever we are in any application we will return back to the main screen in order to choose one of these modes.
+
 1- Calculator Mode:
 In this mode you will be asked to take inputs from the user and print that input on the LCD. You will take two numbers (each more than 1 digit) and a sign between them. Use the keypad numbers to get the numbers.Print the numbers and the sign on the LCD before printing the result.
 KeyPad Format:
@@ -16,7 +17,9 @@ KeyPad Format:
 2- Timer Mode:
 In this mode user is asked to press on minutes button and each press increase one minutes and for seconds he press on another button and each press also increases one second. There is a button for reset timer and button to start timer when we clicked on it ; it will start counting down until it reaches zero so that the blue led will be turned on.
 KeyPad format:
-![image](https://github.com/user-attachments/assets/f0a9d139-3090-47c7-b3a7-db3044c81adb)
+
+![image](https://github.com/user-attachments/assets/e3d21be3-597d-425e-a4da-1feb7aeec19c)
+
  
 You can design it as like you want.
 
